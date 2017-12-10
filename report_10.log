@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  10 DEC 2017 14:20
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  10 DEC 2017 14:34
 entering extended mode
 **c:/Users/Dicky/Desktop/report_10/report_10
 (c:/Users/Dicky/Desktop/report_10/report_10.tex
@@ -628,7 +628,53 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks27
 \@floatcapt=\box38
 )
-No file report_10.aux.
+(c:\Users\Dicky\Desktop\report_10\report_10.aux
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
@@ -647,7 +693,7 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 14.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 14.
-(C:\CTEX\MiKTeX\tex\latex\tipa\t3cmr.fd
+ (C:\CTEX\MiKTeX\tex\latex\tipa\t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 14.
@@ -920,42 +966,8 @@ Overfull \hbox (7.85324pt too wide) in paragraph at lines 207--212
  [][][] 
  []
 
-
-c:/Users/Dicky/Desktop/report_10/report_10.tex:219: LaTeX Error: File `2' not f
-ound.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help
-I could not locate the file with any of these extensions:
-.pdf,.eps,.ps,.png,.jpg,.bmp,.pict,.tif,.psd,.mac,.sga,.tga,.gif
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[4]
-
-c:/Users/Dicky/Desktop/report_10/report_10.tex:259: LaTeX Error: File `2' not f
-ound.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help
-I could not locate the file with any of these extensions:
-.pdf,.eps,.ps,.png,.jpg,.bmp,.pict,.tif,.psd,.mac,.sga,.tga,.gif
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[5] [6]
-
-c:/Users/Dicky/Desktop/report_10/report_10.tex:300: LaTeX Error: File `3' not f
-ound.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help
-I could not locate the file with any of these extensions:
-.pdf,.eps,.ps,.png,.jpg,.bmp,.pict,.tif,.psd,.mac,.sga,.tga,.gif
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[7] [8] [9] [10] [11] [12] (c:\Users\Dicky\Desktop\report_10\report_10.aux)
+[4] [5] [6] [7] [8] [9] [10] [11]
+(c:\Users\Dicky\Desktop\report_10\report_10.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41pt have occurred.
@@ -964,16 +976,16 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15802 strings out of 430478
- 326154 string characters out of 3191501
- 337137 words of memory out of 3000000
- 18697 multiletter control sequences out of 15000+200000
+ 15784 strings out of 430478
+ 326098 string characters out of 3191501
+ 337186 words of memory out of 3000000
+ 18691 multiletter control sequences out of 15000+200000
  9897 words of font info for 71 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  57i,12n,36p,875b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on report_10.pdf (12 pages).
+Output written on report_10.pdf (11 pages).
