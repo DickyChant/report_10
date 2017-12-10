@@ -1,0 +1,21 @@
+{"latex-workshop.latex.toolchain": [
+    {
+    "command": "xelatex",
+    "args": [
+    "-synctex=1",
+    "-interaction=nonstopmode",
+    "-file-line-error",
+    "%DOC%"
+    ]
+    },
+    {
+    "command": "xelatex",
+    "args": [
+    "-synctex=1",
+    "-interaction=nonstopmode",
+    "-file-line-error",
+    "%DOC%"
+    ]
+    }
+    ]
+}
