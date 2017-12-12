@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  12 DEC 2017 21:20
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  12 DEC 2017 21:58
 entering extended mode
 **c:/Users/Dicky/Desktop/report_10/report_10_2
 (c:/Users/Dicky/Desktop/report_10/report_10_2.tex
@@ -1028,28 +1028,7 @@ Requested font "[lmroman10-bold]:mapping=tex-text" at 10.54pt
 Requested font "SimHei/ICU:script=latn;language=DFLT;mapping=tex-text;" at 10.5
 4pt
  -> C:/WINDOWS/Fonts/simhei.ttf
- [4] [5]
-Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text
-!
-Missing character: There is no 增 in font [lmroman10-regular]:mapping=tex-text
-!
-Missing character: There is no 加 in font [lmroman10-regular]:mapping=tex-text
-!
-Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text
-!
-Missing character: There is no 减 in font [lmroman10-regular]:mapping=tex-text
-!
-Missing character: There is no 小 in font [lmroman10-regular]:mapping=tex-text
-!
-Missing character: There is no 比 in font [lmroman10-regular]:mapping=tex-text
-!
-Missing character: There is no 值 in font [lmroman10-regular]:mapping=tex-text
-!
-Missing character: There is no 趋 in font [lmroman10-regular]:mapping=tex-text
-!
-Missing character: There is no 于 in font [lmroman10-regular]:mapping=tex-text
-!
- [6] [7] (c:\Users\Dicky\Desktop\report_10\report_10_2.aux)
+ [4] [5] [6] (c:\Users\Dicky\Desktop\report_10\report_10_2.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41pt have occurred.
@@ -1062,12 +1041,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 16651 strings out of 430478
- 334999 string characters out of 3191501
+ 16641 strings out of 430478
+ 334788 string characters out of 3191501
  371029 words of memory out of 3000000
- 19508 multiletter control sequences out of 15000+200000
+ 19498 multiletter control sequences out of 15000+200000
  9897 words of font info for 71 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  57i,20n,47p,877b,519s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on report_10_2.pdf (7 pages).
+Output written on report_10_2.pdf (6 pages).

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  12 DEC 2017 19:48
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  12 DEC 2017 21:22
 entering extended mode
 **c:/Users/Dicky/Desktop/report_10/report_10
 (c:/Users/Dicky/Desktop/report_10/report_10.tex
@@ -1049,7 +1049,7 @@ Missing character: There is no 趋 in font [lmroman10-regular]:mapping=tex-text
 !
 Missing character: There is no 于 in font [lmroman10-regular]:mapping=tex-text
 !
- [6] (c:\Users\Dicky\Desktop\report_10\report_10.aux)
+ [6] [7] (c:\Users\Dicky\Desktop\report_10\report_10.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41pt have occurred.
@@ -1070,4 +1070,4 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  57i,20n,47p,875b,519s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on report_10.pdf (6 pages).
+Output written on report_10.pdf (7 pages).
