@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  12 DEC 2017 17:09
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  12 DEC 2017 19:48
 entering extended mode
 **c:/Users/Dicky/Desktop/report_10/report_10
 (c:/Users/Dicky/Desktop/report_10/report_10.tex
@@ -1014,7 +1014,42 @@ Overfull \hbox (6.89621pt too wide) in paragraph at lines 185--185
 []|[]| 
  []
 
-[3] [4] (c:\Users\Dicky\Desktop\report_10\report_10.aux)
+[3]
+Requested font "[lmroman10-bold]:mapping=tex-text" at 10.54pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman10-bold.otf
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'SimSun(0)' created for font 'SimSun' with options
+. [Ligatures=TeX,BoldFont={SimHei},ItalicFont={[SIMKAI.TTF]}].
+. 
+. This font family consists of the following shapes:
+.................................................
+Requested font "SimHei/ICU:script=latn;language=DFLT;mapping=tex-text;" at 10.5
+4pt
+ -> C:/WINDOWS/Fonts/simhei.ttf
+ [4] [5]
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text
+!
+Missing character: There is no 增 in font [lmroman10-regular]:mapping=tex-text
+!
+Missing character: There is no 加 in font [lmroman10-regular]:mapping=tex-text
+!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text
+!
+Missing character: There is no 减 in font [lmroman10-regular]:mapping=tex-text
+!
+Missing character: There is no 小 in font [lmroman10-regular]:mapping=tex-text
+!
+Missing character: There is no 比 in font [lmroman10-regular]:mapping=tex-text
+!
+Missing character: There is no 值 in font [lmroman10-regular]:mapping=tex-text
+!
+Missing character: There is no 趋 in font [lmroman10-regular]:mapping=tex-text
+!
+Missing character: There is no 于 in font [lmroman10-regular]:mapping=tex-text
+!
+ [6] (c:\Users\Dicky\Desktop\report_10\report_10.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41pt have occurred.
@@ -1027,12 +1062,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 16636 strings out of 430478
- 334620 string characters out of 3191501
+ 16651 strings out of 430478
+ 334979 string characters out of 3191501
  369020 words of memory out of 3000000
- 19495 multiletter control sequences out of 15000+200000
- 9881 words of font info for 69 fonts, out of 3000000 for 9000
+ 19508 multiletter control sequences out of 15000+200000
+ 9897 words of font info for 71 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  57i,20n,47p,875b,519s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on report_10.pdf (4 pages).
+Output written on report_10.pdf (6 pages).
