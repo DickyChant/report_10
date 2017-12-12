@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  11 DEC 2017 00:23
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  12 DEC 2017 15:47
 entering extended mode
 **c:/Users/Dicky/Desktop/report_10/report_10
 (c:/Users/Dicky/Desktop/report_10/report_10.tex
@@ -716,42 +716,6 @@ LaTeX Warning: Label `tab:addlabel' multiply defined.
 
 LaTeX Warning: Label `tab:addlabel' multiply defined.
 
-
-LaTeX Warning: Label `tab:addlabel' multiply defined.
-
-
-LaTeX Warning: Label `tab:addlabel' multiply defined.
-
-
-LaTeX Warning: Label `tab:addlabel' multiply defined.
-
-
-LaTeX Warning: Label `tab:addlabel' multiply defined.
-
-
-LaTeX Warning: Label `tab:addlabel' multiply defined.
-
-
-LaTeX Warning: Label `tab:addlabel' multiply defined.
-
-
-LaTeX Warning: Label `tab:addlabel' multiply defined.
-
-
-LaTeX Warning: Label `tab:addlabel' multiply defined.
-
-
-LaTeX Warning: Label `tab:addlabel' multiply defined.
-
-
-LaTeX Warning: Label `tab:addlabel' multiply defined.
-
-
-LaTeX Warning: Label `tab:addlabel' multiply defined.
-
-
-LaTeX Warning: Label `tab:addlabel' multiply defined.
-
 )
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
@@ -1024,29 +988,9 @@ Requested font "[lmromanslant10-regular]:mapping=tex-text" at 10.54pt
 
 
 LaTeX Font Warning: Font shape `EU1/SimSun(0)/m/sl' undefined
-(Font)              using `EU1/SimSun(0)/m/n' instead on input line 137.
+(Font)              using `EU1/SimSun(0)/m/n' instead on input line 105.
 
-[2]
-Requested font "[lmroman10-bold]:mapping=tex-text" at 10.54pt
- -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman10-bold.otf
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'SimSun(0)' created for font 'SimSun' with options
-. [Ligatures=TeX,BoldFont={SimHei},ItalicFont={[SIMKAI.TTF]}].
-. 
-. This font family consists of the following shapes:
-.................................................
-Requested font "SimHei/ICU:script=latn;language=DFLT;mapping=tex-text;" at 10.5
-4pt
- -> C:/WINDOWS/Fonts/simhei.ttf
- [3]
-Overfull \hbox (7.85324pt too wide) in paragraph at lines 227--232
- [][][] 
- []
-
-[4] [5] [6] [7] [8] [9] [10] [11] [12]
-(c:\Users\Dicky\Desktop\report_10\report_10.aux)
+[2] [3] (c:\Users\Dicky\Desktop\report_10\report_10.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41pt have occurred.
@@ -1059,12 +1003,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 16661 strings out of 430478
- 335205 string characters out of 3191501
- 367005 words of memory out of 3000000
- 19518 multiletter control sequences out of 15000+200000
- 9897 words of font info for 71 fonts, out of 3000000 for 9000
+ 16634 strings out of 430478
+ 334610 string characters out of 3191501
+ 363004 words of memory out of 3000000
+ 19493 multiletter control sequences out of 15000+200000
+ 9881 words of font info for 69 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  57i,20n,47p,875b,519s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on report_10.pdf (12 pages).
+Output written on report_10.pdf (3 pages).
