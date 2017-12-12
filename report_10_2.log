@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  12 DEC 2017 21:58
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.15)  13 DEC 2017 00:51
 entering extended mode
 **c:/Users/Dicky/Desktop/report_10/report_10_2
 (c:/Users/Dicky/Desktop/report_10/report_10_2.tex
@@ -709,23 +709,7 @@ Package: fp-eval 1995/04/03
 \diagbox@sepl=\dimen177
 \diagbox@sepr=\dimen178
 )
-(c:\Users\Dicky\Desktop\report_10\report_10_2.aux
-
-LaTeX Warning: Label `tab:addlabel' multiply defined.
-
-
-LaTeX Warning: Label `tab:addlabel' multiply defined.
-
-
-LaTeX Warning: Label `tab:addlabel' multiply defined.
-
-
-LaTeX Warning: Label `tab:addlabel' multiply defined.
-
-
-LaTeX Warning: Label `tab:addlabel' multiply defined.
-
-)
+(c:\Users\Dicky\Desktop\report_10\report_10_2.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
@@ -744,7 +728,8 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 16.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 16.
- (C:\CTEX\MiKTeX\tex\latex\tipa\t3cmr.fd
+
+(C:\CTEX\MiKTeX\tex\latex\tipa\t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 16.
@@ -961,7 +946,7 @@ Requested font "cmsy10" at 10.54pt
 
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.54> not available
-(Font)              size <10.95> substituted on input line 24.
+(Font)              size <10.95> substituted on input line 20.
 
 Requested font "cmex10" at 10.95pt
  -> cmex10
@@ -971,7 +956,7 @@ Requested font "cmex7" at 5.0pt
  -> cmex7
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <10.54> not available
-(Font)              size <10.95> substituted on input line 24.
+(Font)              size <10.95> substituted on input line 20.
 
 Requested font "rsfs10" at 10.95pt
  -> rsfs10
@@ -981,7 +966,8 @@ Requested font "rsfs5" at 5.0pt
  -> rsfs5
 Requested font "cmr10" at 10.54pt
  -> cmr10
-[1
+File: 1.eps Graphic file (type eps)
+<1.eps> [1
 
 ]
 Requested font "[lmromanslant10-regular]:mapping=tex-text" at 10.54pt
@@ -997,24 +983,9 @@ Requested font "[lmromanslant10-regular]:mapping=tex-text" at 10.54pt
 
 
 LaTeX Font Warning: Font shape `EU1/SimSun(0)/m/sl' undefined
-(Font)              using `EU1/SimSun(0)/m/n' instead on input line 110.
+(Font)              using `EU1/SimSun(0)/m/n' instead on input line 55.
 
 [2]
-Overfull \hbox (1.22047pt too wide) in paragraph at lines 185--185
-[]|$[]$| 
- []
-
-
-Overfull \hbox (6.89621pt too wide) in paragraph at lines 185--185
-[]|[]| 
- []
-
-
-Overfull \hbox (6.89621pt too wide) in paragraph at lines 185--185
-[]|[]| 
- []
-
-[3]
 Requested font "[lmroman10-bold]:mapping=tex-text" at 10.54pt
  -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman10-bold.otf
 .................................................
@@ -1028,7 +999,7 @@ Requested font "[lmroman10-bold]:mapping=tex-text" at 10.54pt
 Requested font "SimHei/ICU:script=latn;language=DFLT;mapping=tex-text;" at 10.5
 4pt
  -> C:/WINDOWS/Fonts/simhei.ttf
- [4] [5] [6] (c:\Users\Dicky\Desktop\report_10\report_10_2.aux)
+ [3] [4] [5] (c:\Users\Dicky\Desktop\report_10\report_10_2.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41pt have occurred.
@@ -1036,17 +1007,14 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 16641 strings out of 430478
- 334788 string characters out of 3191501
- 371029 words of memory out of 3000000
- 19498 multiletter control sequences out of 15000+200000
+ 16650 strings out of 430478
+ 334867 string characters out of 3191501
+ 359998 words of memory out of 3000000
+ 19505 multiletter control sequences out of 15000+200000
  9897 words of font info for 71 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 57i,20n,47p,877b,519s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 57i,11n,36p,877b,331s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on report_10_2.pdf (6 pages).
+Output written on report_10_2.pdf (5 pages).
